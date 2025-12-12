@@ -24,7 +24,6 @@ function App() {
 
   return (
     <div>
-      <h1>hello zainab</h1>
       <Banner/>
       <Navbar/>
       <Hero/>
